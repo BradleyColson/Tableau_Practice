@@ -1,4 +1,4 @@
-# Tableua_Practice
+# Tableau_Practice
 
 I've studied a lot from Data Analyst YouTubers such as "Alex the Analyst" and "Lore So What" who are active leaders in their field.  They both stated that Tableau is more popular in the workplace than Power BI.  
 
