@@ -10,3 +10,8 @@ https://public.tableau.com/app/profile/bradley.colson/viz/CreditRIskProject/Dash
 
 
 ![CreditRIsk](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/3674f2de-17f7-42a6-a2d0-e3e5aaf27893)
+
+I took presumbly fake data about airlines from Kaggle.  I did several queries about delays and destinations and then imported it into Tableau.
+
+
+![Kaggle_Flight_Data](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/6bfe1294-c8cf-4120-92e5-6aca6895bf8b)
