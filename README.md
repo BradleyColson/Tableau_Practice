@@ -6,6 +6,13 @@ So, I took a data set called Credit Risks from Kaggle to practice Tableau.  Kagg
 
 The dashboard is posted here.
 
+I asked the following question:
+
+What was the most common reason to get a loan?
+What was the interest rate for varities of incomes?
+How many loans are defaulting and how are they grouped?
+Lastly I asked how big the loan was versus the income?
+
 https://public.tableau.com/app/profile/bradley.colson/viz/CreditRIskProject/Dashboard1?publish=yes
 
 
