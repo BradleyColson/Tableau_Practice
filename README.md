@@ -13,5 +13,12 @@ https://public.tableau.com/app/profile/bradley.colson/viz/CreditRIskProject/Dash
 
 I took presumbly fake data about airlines from Kaggle.  I did several queries about delays and destinations and then imported it into Tableau.
 
+I looked into insights about:
+  Which airline is the most on time?
+  Which arrival airport has the fewest delays?
+  What were the minimum, average, and maximum arrival delays?
+  What time of days are most delays occurring?
+  Which airline is usually on time which one is not?
+
 
 ![Kaggle_Flight_Data](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/6bfe1294-c8cf-4120-92e5-6aca6895bf8b)
