@@ -48,4 +48,5 @@ The purpose of this dashboard was to get practice with geographical maps in Tabl
 
 https://public.tableau.com/app/profile/bradley.colson/viz/AsianAirQualityDashboard/Dashboard1?publish=yes
 
-![image](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/179bcd10-838c-42e9-872e-b946b079056d)
+![image](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/c2036ceb-8a4d-41ad-b254-b13974151019)
+
