@@ -47,3 +47,5 @@ While China and India do have poor air quality on a city level, as a country it 
 The purpose of this dashboard was to get practice with geographical maps in Tableau and using sql case statements to create a color coded shading opportunity in the dashboard.
 
 https://public.tableau.com/app/profile/bradley.colson/viz/AsianAirQualityDashboard/Dashboard1?publish=yes
+
+![image](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/179bcd10-838c-42e9-872e-b946b079056d)
