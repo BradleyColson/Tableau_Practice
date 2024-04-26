@@ -30,3 +30,20 @@ I looked into insights about:
 
 
 ![Kaggle_Flight_Data](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/6bfe1294-c8cf-4120-92e5-6aca6895bf8b)
+
+
+Asian Air Pollution
+
+Is the perception that air quality is dirty in China and India correct?
+
+I took a kaggle data set to explore.
+
+Cleaned data by checking column names and typos. Removed nulls.
+
+Wrote sql query to establish average air quality per country and per city.
+
+While China and India do have poor air quality on a city level, as a country it averages out below an unhealthy air index level.
+
+The purpose of this dashboard was to get practice with geographical maps in Tableau and using sql case statements to create a color coded shading opportunity in the dashboard.
+
+https://public.tableau.com/app/profile/bradley.colson/viz/AsianAirQualityDashboard/Dashboard1?publish=yes
