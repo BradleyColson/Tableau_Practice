@@ -6,12 +6,24 @@ So, I took a data set called Credit Risks from Kaggle to practice Tableau.  Kagg
 
 The dashboard is posted here.
 
-I asked the following question:
+I asked the following questions:
+
 
 What was the most common reason to get a loan?
+
+Personal loans were the biggest reason to borrow.
+
+
 What was the interest rate for varities of incomes?
+
+Most loans were mid level interest, followed by high interest, low interes was the lowest which makes sense.
+
+
 How many loans are defaulting and how are they grouped?
+Debt consolidation default rate was even. While Personal loans had the longest loan term or age.
+
 Lastly I asked how big the loan was versus the income?
+The larger the loan the lower the higher penctage of income was borrowed.
 
 https://public.tableau.com/app/profile/bradley.colson/viz/CreditRIskProject/Dashboard1?publish=yes
 
