@@ -1,8 +1,7 @@
 # Tableau_Practice
 
-I've studied a lot from Data Analyst YouTubers such as "Alex the Analyst" and "Lore So What" who are active leaders in their field.  They both stated that Tableau is more popular in the workplace than Power BI.  
 
-So, I took a data set called Credit Risks from Kaggle to practice Tableau.  Kaggle is know for pretty clean data, but data cleaning what's my goal.
+I took a data set called Credit Risks from Kaggle to practice Tableau.  Kaggle is know for pretty clean data, but data cleaning what's my goal.
 
 The dashboard is posted here.
 
@@ -16,7 +15,7 @@ Personal loans were the biggest reason to borrow.
 
 
 
-What was the interest rate for varities of incomes?
+What was the interest rate for varieties of incomes?
 
 Most loans were mid level interest, followed by high interest, low interest was the lowest which makes sense.
 
@@ -29,7 +28,7 @@ Debt consolidation default rate was even. While Personal loans had the longest l
 
 Lastly I asked how big the loan was versus the income?
 
-The larger the loan the lower the higher penctage of income was borrowed.
+The larger the loan the lower the higher percentage of income was borrowed.
 
 
 https://public.tableau.com/app/profile/bradley.colson/viz/CreditRIskProject/Dashboard1?publish=yes
@@ -37,13 +36,28 @@ https://public.tableau.com/app/profile/bradley.colson/viz/CreditRIskProject/Dash
 
 ![CreditRIsk](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/3674f2de-17f7-42a6-a2d0-e3e5aaf27893)
 
-I took presumbly fake data about airlines from Kaggle.  I did several queries about delays and destinations and then imported it into Tableau.
+I took Kaggle data about airlines.
+
+I did several queries about delays and destinations and then imported it into Tableau.
 
 I looked into insights about:
 
-  Which airline is the most on time?
-  Which arrival airport has the fewest delays?
-  What were the minimum, average, and maximum arrival delays?
+
+Which airline is the most on time?
+Delta Airlines had one flight that was always on time or early.
+
+
+Which arrival airport has the fewest delays?
+AVL airport had the fewest delays.
+
+
+What were the minimum, average, and maximum arrival delays?
+
+Min flight delay was pretty even across all airlines.
+
+Average delay 
+
+
   What time of days are most delays occurring?
   Which airline is usually on time which one is not?
 
