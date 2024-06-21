@@ -64,6 +64,8 @@ Average delay
 
 https://public.tableau.com/app/profile/bradley.colson/viz/Flight_Data_17008416482480/Dashboard1?publish=yes
 
+![Flights](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/35b4713c-2617-4038-8d93-254061a241c0)
+
 
 Asian Air Pollution
 
