@@ -1,4 +1,4 @@
-# Tableau_Practice
+# Tableau Practice
 
 
 I took a data set called Credit Risks from Kaggle to practice Tableau.  Kaggle is know for pretty clean data, but data cleaning what's my goal.
@@ -62,7 +62,7 @@ Average delay
   Which airline is usually on time which one is not?
 
 
-![Kaggle_Flight_Data](https://github.com/BradleyColson/Tableau_Practice/assets/132014177/6bfe1294-c8cf-4120-92e5-6aca6895bf8b)
+https://public.tableau.com/app/profile/bradley.colson/viz/Flight_Data_17008416482480/Dashboard1?publish=yes
 
 
 Asian Air Pollution
